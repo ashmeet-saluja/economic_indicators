@@ -1,5 +1,4 @@
-# economic_indicators
-Macroeconomic Indicators Analysis
+
 # Macroeconomic Indicators Analysis (2010-2023)
 
 ## 📊 Project Overview
