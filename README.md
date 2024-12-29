@@ -69,3 +69,30 @@ Open the Jupyter notebook to explore the analysis:
 bash
 Copy code
 jupyter notebook eda_macroeconomic_indicators.ipynb
+📊 Results and Insights
+Key Findings:
+
+Inflation and interest rates have a significant inverse correlation with stock index values.
+GDP growth positively correlates with stock market performance.
+Unemployment rates show varying impacts across countries.
+Visual Highlights:
+
+Time series plots demonstrate the cyclical nature of economic indicators.
+Heatmaps reveal strong interdependencies between indicators.
+🏆 Future Work
+Incorporate additional countries and datasets for a more comprehensive analysis.
+Use machine learning models to predict stock market performance based on macroeconomic indicators.
+Build an interactive dashboard for real-time macroeconomic insights.
+🤝 Contributing
+Contributions are welcome! Please fork this repository, make changes, and submit a pull request.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📬 Contact
+For questions or collaboration, feel free to reach out:
+
+Email: salujaashmeet179@gmail.com
+GitHub: ashmeetsaluja
+yaml
+Copy code
